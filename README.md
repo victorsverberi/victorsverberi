@@ -47,3 +47,5 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 </div>
 
 -----
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=victorsverberi"/>
