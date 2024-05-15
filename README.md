@@ -48,27 +48,14 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 Sobre Mim
 👨‍🎓 Graduação: Engenharia de Software na PUC Minas.
 🌱 Atividades Atuais: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-💼 Experiência Profissional: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
-Habilidades
-Linguagens de Programação: Java, Python, C#
-Desenvolvimento Web: HTML, CSS, JavaScript, React
-Banco de Dados: MySQL, MongoDB
+💼 Experiência Profissional: Trabalhei com manutenção e montagem de computadores de 2018 a 2022.
+Habilidades: Trabalho em equipe, desenvolvimento de softwares, gerência de projetos, estrutura de dados, comunicação...
+Linguagens de Programação: C, Python, Java
+Desenvolvimento Web: HTML, CSS, JavaScript
+Banco de Dados: MySQL
 Metodologias: Scrum, Kanban
-Ferramentas: Git, VS Code, Eclipse
-[Adicione outras habilidades relevantes]
-Projetos Destacados
-[Nome do Projeto]
-Breve descrição do projeto e suas tecnologias principais.
+Ferramentas: Git, VS Code, Eclipse, Replit
 
-[Nome do Projeto]
-Breve descrição do projeto e suas tecnologias principais.
-
-Contribuições
-[Nome do Projeto/Open Source]: Breve descrição da contribuição.
-Contato
-E-mail: [v.sverberi@gmail.com]
-LinkedIn: [...]
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
 
 -----
 
