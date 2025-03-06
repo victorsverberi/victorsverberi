@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Victor</code>, tenho 19 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou <code>estudanter</code> de Engenharia de Software na PUC Minas.
+<i><b>Olá</b> :wave:, sou o <code>Victor</code>, tenho 20 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou <code>estudanter</code> de Engenharia de Software na PUC Minas.
 </div>
 
 -----
